@@ -1,10 +1,10 @@
 {
   "name": "@womorg/saepe-enim-dolor",
-  "version": "17.32.351",
+  "version": "17.32.352",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/adipisci-maxime-facilis": "^1.0.0",
